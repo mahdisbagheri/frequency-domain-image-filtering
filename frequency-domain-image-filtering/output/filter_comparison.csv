@@ -1,0 +1,16 @@
+Filter Type,D0,Order n,Cutoff Behavior,Visual Effect
+Ideal Low Pass,20,-,Sharp Cutoff,Strong Ringing
+Ideal Low Pass,40,-,Sharp Cutoff,Strong Ringing
+Ideal Low Pass,80,-,Sharp Cutoff,Strong Ringing
+Butterworth,20,1,Smooth Cutoff,Moderate Ringing
+Butterworth,20,2,Smooth Cutoff,Moderate Ringing
+Butterworth,20,4,Smooth Cutoff,Moderate Ringing
+Butterworth,40,1,Smooth Cutoff,Moderate Ringing
+Butterworth,40,2,Smooth Cutoff,Moderate Ringing
+Butterworth,40,4,Smooth Cutoff,Moderate Ringing
+Butterworth,80,1,Smooth Cutoff,Moderate Ringing
+Butterworth,80,2,Smooth Cutoff,Moderate Ringing
+Butterworth,80,4,Smooth Cutoff,Moderate Ringing
+Ideal High Pass,20,-,Sharp Cutoff,Strong Edge Enhancement
+Ideal High Pass,40,-,Sharp Cutoff,Strong Edge Enhancement
+Ideal High Pass,80,-,Sharp Cutoff,Strong Edge Enhancement
